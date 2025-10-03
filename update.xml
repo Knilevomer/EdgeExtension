@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='gnpeoopmdgegpplpjabblaodpodjaaof'>
-    <updatecheck codebase='https://github.com/Knilevomer/EdgeExtension/raw/refs/heads/main/NumberzRecognizer.crx' version='1.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/Knilevomer/EdgeExtension/main/NumberzRecognizer.crx' version='1.0' />
   </app>
 </gupdate>
